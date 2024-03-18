@@ -1,0 +1,11 @@
+tensorflow-datasets
+matplotlib
+jupyter
+notebook
+scikit-learn
+pandas
+pyyaml==5.3.1
+tf-models-official==2.12.*
+pydot
+plotly
+kaleido
