@@ -59,7 +59,7 @@ In those files, the loss is `difair` by default.
 For example, if you want to run an experiment on CIFAR10 do:
 ``` bash
 # By default it will run on the first split
-python3 train_model.py --flagsfile defaults_flags/difair_cifar10_flags.txt
+python3 train_model.py --flagfile default_flags/difair_cifar10_flags.txt
 ```
 
 ---
