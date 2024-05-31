@@ -34,7 +34,7 @@ We show below, for a few images, ``cards'' containing :
 
 **Note** that only the top 6 most activated classes (according to the sum of class features) are displayed in the representations for better visualization.
 
-<!-- **Note** : more images can be found in the `known_images` and `unknown_images` folders. -->
+**Note** : more images can be found in an archive here : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11395247.svg)](https://doi.org/10.5281/zenodo.11395247)
 
 ## <a name="observations"></a> 2. Observations
 
